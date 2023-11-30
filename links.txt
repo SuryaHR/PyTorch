@@ -1,0 +1,7 @@
+https://www.learnpytorch.io/
+ 
+https://github.com/mrdbourke/pytorch-deep-learning
+
+https://zerotomastery.io/cheatsheets/pytorch-cheat-sheet/
+
+https://www.learnpytorch.io/
